@@ -35,7 +35,7 @@ A simple Console-based Library Management System built using core Java.
 
 4. **Run the main application:**
    ```bash
-   java Main
+   java Library
    ```
    > Replace `Main` with the actual main class name if different.
 
@@ -43,11 +43,13 @@ A simple Console-based Library Management System built using core Java.
 
 ```
 Library_Management_System/
-├── Book.java
-├── Member.java
-├── Library.java
-├── Main.java
+├── book.java
+├── books.java
+├── Library.java(Main)
+├── student.java
+├──students.java
 └── README.md
+
 ```
 
 ## Contributing
